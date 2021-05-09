@@ -5,3 +5,4 @@ es
 .vscode/*
 .cache/*
 build/*
+config.bat
